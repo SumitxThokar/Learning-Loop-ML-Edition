@@ -13,3 +13,6 @@ Happy Learning!
 
 ## Day 3 - 7/22/2023
 -  I deepened my knowledge on Transformer. Today I delved into the pre-processing methods applied to raw text before passing it to the encoder and decoder blocks of the transformer architecture. I learned that difference between two vectors seperated by k position is always constant and Positional Encoding (PE) can affect Word Embeddings if relative weights of PE is not small. 
+
+## Day 4 - 7/23/2023
+- Today I optimized Transformer model to perform Name Entity Recognition on dataset of resumes where I used tokenizers and pretrained model form Hugging Face Library and Fine-tuned a pre-trained transformer model for Named-Entity Recognition.
