@@ -10,3 +10,6 @@ Happy Learning!
 
 ## Day 2 - 7/21/2023
 - Today was the day of assignment. I worked on Transformer Architecture assignment where in the assignment I implemented the components of the transformers model in TensorFlow 2.4. The assignment was the great source to learn more indepth on Transformer where I implemented Position Encoding, Masking both padding and Look-ahead, Self- Attention, Encoder, Decoder and lastly prepared the model. 
+
+## Day 3 - 7/22/2023
+-  I deepened my knowledge on Transformer. Today I delved into the pre-processing methods applied to raw text before passing it to the encoder and decoder blocks of the transformer architecture. I learned that difference between two vectors seperated by k position is always constant and Positional Encoding (PE) can affect Word Embeddings if relative weights of PE is not small. 
