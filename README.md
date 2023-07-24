@@ -16,3 +16,6 @@ Happy Learning!
 
 ## Day 4 - 7/23/2023
 - Today I optimized Transformer model to perform Name Entity Recognition on dataset of resumes where I used tokenizers and pretrained model form Hugging Face Library and Fine-tuned a pre-trained transformer model for Named-Entity Recognition.
+
+## Day 5 - 7/24/2023
+- Today I was introducted to Generative Adversarial Networks (GANs). GANs are used to generate incredibly realistic images/ music. I learned what Generative models are and learned the difference of Discriminative and generative Model. Furthermore I got intuitions on types of Generative models and how they work: VAEs and GANs. Lastly I learned Real life GANs applications and big techs that are planning or using this cool technique to enhance.
