@@ -19,3 +19,9 @@ Happy Learning!
 
 ## Day 5 - 7/24/2023
 - Today I was introducted to Generative Adversarial Networks (GANs). GANs are used to generate incredibly realistic images/ music. I learned what Generative models are and learned the difference of Discriminative and generative Model. Furthermore I got intuitions on types of Generative models and how they work: VAEs and GANs. Lastly I learned Real life GANs applications and big techs that are planning or using this cool technique to enhance.
+
+## Day 6 - 7/25/2023
+- Today I learned the intuitions behind GANs and learned about the goals of Generator, discriminator and competition between them. Furthermore I learned how discriminator classifier distinguish between classes of Real and Fake labels.
+
+## Day 7 - 7/26/2023
+-  Today I learned briefly about how Generator generates examples of the class with noise vector and input. The I learned about how Binary Cross Entropy funciton is used for training GANs and lastly Putting It All Together learned about the architecture of GANs as whole. 
