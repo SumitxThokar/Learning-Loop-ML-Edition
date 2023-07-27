@@ -25,3 +25,6 @@ Happy Learning!
 
 ## Day 7 - 7/26/2023
 -  Today I learned briefly about how Generator generates examples of the class with noise vector and input. The I learned about how Binary Cross Entropy funciton is used for training GANs and lastly Putting It All Together learned about the architecture of GANs as whole. 
+
+## Day 8 - 7/27/2023
+- I was introducted to functionality of Pytorch and cleared few question like why pytorch. Next, I implemeted tensor's operations like addition, multiplication using pytorch. Furthermore I implemeted simple Neural Network using pytorch's nn library. This was all done in guided assignment which introduced pytorch. 
