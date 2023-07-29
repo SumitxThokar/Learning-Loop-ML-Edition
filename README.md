@@ -28,3 +28,6 @@ Happy Learning!
 
 ## Day 8 - 7/27/2023
 - I was introducted to functionality of Pytorch and cleared few question like why pytorch. Next, I implemeted tensor's operations like addition, multiplication using pytorch. Furthermore I implemeted simple Neural Network using pytorch's nn library. This was all done in guided assignment which introduced pytorch. 
+
+## Day 9 - 7/28/2023
+- Today I worked on a guided assignment where I created my first generative adversarial network (GAN) for the course! Specifically, I built and trained a GAN that can generate hand-written images of digits (0-9).
