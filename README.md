@@ -38,4 +38,7 @@ Happy Learning!
 ## Day 11 - 7/30/2023
 - Today I learned more about GANs. I was able to revise things on convolutions like pooling, strides, padding etc and futher more learned about Devonvolution which was the highlight of the day. I also dived deeped on Checkerboard pattern problems while upscaling.
 
+## Day 12 - 7/31/2023
+- Today I read research paper on Deep Convolutional GANs (DCGAN). I created another GANs (DCGAN) using the MNIST dataset. I also implemented a DCGAN in the course.
+
 
