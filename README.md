@@ -31,3 +31,11 @@ Happy Learning!
 
 ## Day 9 - 7/28/2023
 - Today I worked on a guided assignment where I created my first generative adversarial network (GAN) for the course! Specifically, I built and trained a GAN that can generate hand-written images of digits (0-9).
+
+## Day 10 - 7/29/2023
+- Today I learned about Activation functions (I knew them already so more like a revision), how they work, common activation functions and also about Batch Normalization and how it works.
+
+## Day 11 - 7/30/2023
+- Today I learned more about GANs. I was able to revise things on convolutions like pooling, strides, padding etc and futher more learned about Devonvolution which was the highlight of the day. I also dived deeped on Checkerboard pattern problems while upscaling.
+
+
