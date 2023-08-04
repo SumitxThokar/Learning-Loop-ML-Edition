@@ -41,4 +41,8 @@ Happy Learning!
 ## Day 12 - 7/31/2023
 - Today I read research paper on Deep Convolutional GANs (DCGAN). I created another GANs (DCGAN) using the MNIST dataset. I also implemented a DCGAN in the course.
 
+## Day 13 - 8/1/2023
+- Today I checked out the research paper of DCGAN. It was one of the first research paper I completed. I was not very easy for me the grasp everything but I sure did learned alot on Research paper in general and more about DCGAN in general. I also implemented the code of TGAN which is used for Video Generation.
+
+
 
