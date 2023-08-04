@@ -44,5 +44,13 @@ Happy Learning!
 ## Day 13 - 8/1/2023
 - Today I checked out the research paper of DCGAN. It was one of the first research paper I completed. I was not very easy for me the grasp everything but I sure did learned alot on Research paper in general and more about DCGAN in general. I also implemented the code of TGAN which is used for Video Generation.
 
+## Day 14 - 8/2/2023
+- Today I hopped on the Problems in BCE Loss like Mode Collapse, Vanishing Gradient and how it impacts on instability of the GANs model. Not only did I learned about the problem, I got intuition on the cost function which were more stable like Earth Mover's Distance (EMD) and Wassertein Loss (W- loss).
+
+## Day 15 - 8/3/2023
+- Today I continued on yesterday's topic. W - Loss which was one of the cost function which was less prone to Vanishing Gradient and Mode Collapse was also not perfect like everything else. For it to work well it had few condtions ie 1-L continuity Enforcement. Today I learned about it and lastly code implemented SNGAN.
+
+## Day 16 - 8/4/2023
+- Yeahh! Exam is finished and I will be learning alot next two day. Talking about learning, I slept and rest alot today but I sure did learned few things. I learned about WGAN and code implemeted it. I learned about W-Loss few days ago. I guess it was extention to it. WGAN solves instability issues. I implemented it with Gradient Penalty which prevents Mode Collapse better. 
 
 
