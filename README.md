@@ -53,4 +53,6 @@ Happy Learning!
 ## Day 16 - 8/4/2023
 - Yeahh! Exam is finished and I will be learning alot next two day. Talking about learning, I slept and rest alot today but I sure did learned few things. I learned about WGAN and code implemeted it. I learned about W-Loss few days ago. I guess it was extention to it. WGAN solves instability issues. I implemented it with Gradient Penalty which prevents Mode Collapse better. 
 
+## Day 17 - 8/5/2023
+- After implementing the WGAN yesterday, I checked out the research paper of the WGAN which was pretty hard for me to grasp. The maths there we too much so instead learned in detail using youtube. Also I worked on chatbot project using RASA.
 
