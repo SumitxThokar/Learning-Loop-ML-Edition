@@ -56,3 +56,11 @@ Happy Learning!
 ## Day 17 - 8/5/2023
 - After implementing the WGAN yesterday, I checked out the research paper of the WGAN which was pretty hard for me to grasp. The maths there we too much so instead learned in detail using youtube. Also I worked on chatbot project using RASA.
 
+## Day 18 - 8/6/2023
+- Today I got intuitions on Conditional Generation which is a technique to ask model which data to generate. Here we concatenate the One-Hot encoded vector of the class labels with noise vector and fed to generate as input.
+
+## Day 19 - 8/7/2023
+- Today worked on programming assignment. The assignment was of Conditional GAN where I made a conditional GAN in order to generate hand-writtern images of digits, conditioned on the digit to be generated (the class vector).
+
+## Day 20 - 8/8/2023
+- Today's day was more focused on theory. I learned about Contrallable Generation, Vector Algebra in the Z-space, Challenges with controllable Generation, Classifier Gradients, Disentanglement.
