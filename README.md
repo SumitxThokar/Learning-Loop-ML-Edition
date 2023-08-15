@@ -64,3 +64,9 @@ Happy Learning!
 
 ## Day 20 - 8/8/2023
 - Today's day was more focused on theory. I learned about Contrallable Generation, Vector Algebra in the Z-space, Challenges with controllable Generation, Classifier Gradients, Disentanglement.
+
+## Day 21 - 8/9/2023
+- Hectic day. Today I worked on programming exercise where I implemented the concept of Controllable Generation. It was a guided assignment.
+
+## Day 22 - 8/10/2023
+- I overviewed the course 2 of new course (Buikd Better GANs) where I also learned why evaluating the performance can be hard. I understood about the challenges of evaluating GANs.
