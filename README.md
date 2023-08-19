@@ -70,3 +70,24 @@ Happy Learning!
 
 ## Day 22 - 8/10/2023
 - I overviewed the course 2 of new course (Buikd Better GANs) where I also learned why evaluating the performance can be hard. I understood about the challenges of evaluating GANs.
+
+## Day 23 - 8/11/2023
+- Today I learned on Comparing Images where I learned about getting the distance between images which adds feature level. Also learned how pixel distance is simple and too sensitive and unreliable. Furthermore to it, I learned more reliable technique which is Feature distance.
+
+## Day 24 - 8/12/2023
+- Extending the yesterday's topic of Feature distance, I learned about Feature Extraction where I learned how to extract features using classifiers and compute feature distance between those images.
+
+## Day 25 - 8/13/2023
+- I learned about Inception- v3 network which was  trained on image.net. I learned how to extract feature embeddings from it and then compare those embedding.
+
+## Day 26 - 8/14/2023
+- Today I learned about Frechet Inception Distance (FID) which is a metric for measuring the feature distance between real and generated images. FID uses inception model and miltivariate normal frechet distance.
+
+## Day 27 - 8/15/2023
+- Today I learned anohter way to calculate the distance between reals and fakes using the inception v3 model i.e. Inception Score. Inception score tries to capture fidelity and diversity and not as good as FID.
+
+## Day 28 - 8/16/2023
+- Today I deepened my knowledge about why FID has overtaken Inception Score with the help of Research paper by Barrat and Sharma. I learned that FID is more sensitive to the similarity between the generated and real iamges.
+
+## Day 29 - 8/17*2023
+- Today I learned about the main evaluation methods of GANS. I learned few tricks in evaluation GANs. I learned Truncation Trick where we truncate the tail to tune for each fidelity and diversity trade off. Furthermore I learned about HYPE and Human Evaluation.
