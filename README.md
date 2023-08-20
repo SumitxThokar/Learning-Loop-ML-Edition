@@ -89,5 +89,8 @@ Happy Learning!
 ## Day 28 - 8/16/2023
 - Today I deepened my knowledge about why FID has overtaken Inception Score with the help of Research paper by Barrat and Sharma. I learned that FID is more sensitive to the similarity between the generated and real iamges.
 
-## Day 29 - 8/17*2023
+## Day 29 - 8/17/2023
 - Today I learned about the main evaluation methods of GANS. I learned few tricks in evaluation GANs. I learned Truncation Trick where we truncate the tail to tune for each fidelity and diversity trade off. Furthermore I learned about HYPE and Human Evaluation.
+
+## Day 30 - 8/18/2023
+- Diving deep into the world of HYPE, I learned about HYPE-Time which measures how long a human need to see an image before classifying real or fake and HYPE-Infinity which measure how often human make mistake judging images. 
