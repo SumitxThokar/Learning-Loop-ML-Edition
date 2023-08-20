@@ -94,3 +94,6 @@ Happy Learning!
 
 ## Day 30 - 8/18/2023
 - Diving deep into the world of HYPE, I learned about HYPE-Time which measures how long a human need to see an image before classifying real or fake and HYPE-Infinity which measure how often human make mistake judging images. 
+
+## Day 30 - 8/18/2023
+- Into the Evaluation of GANs as topic, I learned about precision and Recall in GANs where I learned about Precision being fidelity (How well the model classifies fake over all fakes) and Recall being diversity (how well the model is at classifying real over all reals). I learned how truncation trick help to improve precision.
