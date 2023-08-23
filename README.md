@@ -95,5 +95,18 @@ Happy Learning!
 ## Day 30 - 8/18/2023
 - Diving deep into the world of HYPE, I learned about HYPE-Time which measures how long a human need to see an image before classifying real or fake and HYPE-Infinity which measure how often human make mistake judging images. 
 
-## Day 30 - 8/18/2023
+## Day 31 - 8/19/2023
 - Into the Evaluation of GANs as topic, I learned about precision and Recall in GANs where I learned about Precision being fidelity (How well the model classifies fake over all fakes) and Recall being diversity (how well the model is at classifying real over all reals). I learned how truncation trick help to improve precision.
+
+## Day 32 - 8/20/2023
+- Today I worked on programming assignment about Frechet Inception Distance (FID) which is a metric for measuring feature distance between real and generated images.
+
+## Day 33 - 8/21/2023
+- Diving deep into GANS. I learned about the disadvantages of GANS like lack of good metric, No density estimation, and not having straight forward inverting from generated image to noise. And furthermore I learned about alternatives to GANs like VAEs and learned surfacely how they work.
+
+## Day 34 - 8/22/2023
+- I checked out the alternative to GANS called VAEs which has exact opposite disadvanteges and advantages as GANs. I understood how they work and basic component of VAEs.
+
+## Day 35 - 8/23/2023
+- I read an article titled Machine Bias by ProPublica which talks about a software to predict future criminals and its biased against black.
+  
