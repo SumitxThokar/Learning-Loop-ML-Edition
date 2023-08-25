@@ -109,4 +109,7 @@ Happy Learning!
 
 ## Day 35 - 8/23/2023
 - I read an article titled Machine Bias by ProPublica which talks about a software to predict future criminals and its biased against black.
+
+## Day 36 - 8/24/2023
+- Today I learned about Fairness in Machine learning model. Starting with its definitoin which I found it has no concrete definition and is still a vast area of research. Furthermore I learned about many ways how bias can enter in model. Continuing this knowledge I saw an example article where PULSE which is am image upscaling model learned bias and upsampled the obama as white.
   
