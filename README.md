@@ -113,3 +113,11 @@ Happy Learning!
 ## Day 36 - 8/24/2023
 - Today I learned about Fairness in Machine learning model. Starting with its definitoin which I found it has no concrete definition and is still a vast area of research. Furthermore I learned about many ways how bias can enter in model. Continuing this knowledge I saw an example article where PULSE which is am image upscaling model learned bias and upsampled the obama as white.
   
+## Day 37 - 8/25/2023
+- Today I explored a way to identifying some baises of a GAN using a classifier, in a way that's well suited for attempting to make a model independent of an input. It was a programming assignment,
+
+## Day 38 - 8/26/2023
+- Today I worked on a project: Movie recommendation system which takes input movie and recommend similar movies based on content. Today I preprocessed the data and created model using nltk library and bagofwords as vectorization technique.
+
+## Day 39 - 8/27/2023
+- Working further on the same project I was able to built a webapp using streamlit. The web app takes the input as the movie name and outputs similar movies with its poster. 
