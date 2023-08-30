@@ -124,3 +124,7 @@ Happy Learning!
 
 ## Day 40 - 8/28/2023
 - Learned about Improvements in GANs and I am learned about state of art GAN ie StyleGAN which produce high quality images, increased diversity and gives more control over features. I got overview of StyleGAN about its architecture and it's working in short.
+
+## Day 41 - 8/29/2023
+- Diving deep into the StyleGAN architecture, under stood how Progressive Growing lets GAN generate image from lower resolution to higher. Secondly I learned about Noise Mapping network which is used to make the noise vector less entangled and Finally AdaIN which is Normalization technique based on Adaptive Style necessarily scaling and shifting. 
+##
