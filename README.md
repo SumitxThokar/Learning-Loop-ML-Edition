@@ -121,3 +121,6 @@ Happy Learning!
 
 ## Day 39 - 8/27/2023
 - Working further on the same project I was able to built a webapp using streamlit. The web app takes the input as the movie name and outputs similar movies with its poster. 
+
+## Day 40 - 8/28/2023
+- Learned about Improvements in GANs and I am learned about state of art GAN ie StyleGAN which produce high quality images, increased diversity and gives more control over features. I got overview of StyleGAN about its architecture and it's working in short.
