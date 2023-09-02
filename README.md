@@ -127,4 +127,12 @@ Happy Learning!
 
 ## Day 41 - 8/29/2023
 - Diving deep into the StyleGAN architecture, under stood how Progressive Growing lets GAN generate image from lower resolution to higher. Secondly I learned about Noise Mapping network which is used to make the noise vector less entangled and Finally AdaIN which is Normalization technique based on Adaptive Style necessarily scaling and shifting. 
-##
+
+## Day 42 - 8/30/2023
+- Today I worked on programming assignment where I implemented various components of StyleGAN, including truncation trick, the mapping layer, noise injection, adaptive instance normalization (AdaIn( and progressive growing.
+
+## Day 43 - 8/31/2023
+- Today I got overview of the components of StyleGAN2 like Demodulation which is the modification of AdaIn normalization, saw how Progressive Growing was replaced with better neural network architecture with skip and residual connetion and Path length regularization which is for the smooth mapping.
+
+## Day 44 - 9/1/2023
+- Worked on project of Facial recognition with Siamese Network. I completed the first part where I created a conda environment, installed and imported required packagaes, setup the GPU for the jupyter network by downloading cuba toolkit.
