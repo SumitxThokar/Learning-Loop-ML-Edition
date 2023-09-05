@@ -136,3 +136,12 @@ Happy Learning!
 
 ## Day 44 - 9/1/2023
 - Worked on project of Facial recognition with Siamese Network. I completed the first part where I created a conda environment, installed and imported required packagaes, setup the GPU for the jupyter network by downloading cuba toolkit.
+
+## Day 45 - 9/2/2023
+- Furthermore on Facial recognition Project, today I completed the part where I collected anchor, positive and negative image for the model. Next I preprocess the images created positve and negative samples and load those data into TF Dataloader.
+
+## Day 46 - 9/3/2023
+- Sticking with the project I was able to build a Siamese Neural Network with similar architecture in the research paper. After building the model I trained and test the model using 2 way pipeline structure.
+
+## Day 47 - 9/4/2023
+- Finally it was time when we make facial recognition predictions. I used open cv to make the prediction real-time. The result was pretty bad but it is the journey which matters than the destination. I learned alot working in the project and from now on I will be doing these project quite often.
