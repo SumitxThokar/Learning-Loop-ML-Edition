@@ -145,3 +145,6 @@ Happy Learning!
 
 ## Day 47 - 9/4/2023
 - Finally it was time when we make facial recognition predictions. I used open cv to make the prediction real-time. The result was pretty bad but it is the journey which matters than the destination. I learned alot working in the project and from now on I will be doing these project quite often.
+
+## Day 48 - 9/5/2023
+- I worked on project to train YOLOv8 object detection on custom data. I used simple image downloader to download the data. After collecting the data I labelled each image using labelImg and used them to train the yolov8 model on commannd Interface. The model could not label maybe the problem was on the data or else. But I sure learned alot of process and will be training the model again.
