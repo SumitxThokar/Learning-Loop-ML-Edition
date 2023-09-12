@@ -148,3 +148,12 @@ Happy Learning!
 
 ## Day 48 - 9/5/2023
 - I worked on project to train YOLOv8 object detection on custom data. I used simple image downloader to download the data. After collecting the data I labelled each image using labelImg and used them to train the yolov8 model on commannd Interface. The model could not label maybe the problem was on the data or else. But I sure learned alot of process and will be training the model again.
+
+## Day 49 - 9/6/2023
+-- Hectic day but still manage to work on a simple project ie Text Generation using Hugging Face Transformer Model. I used GPT-2 for the blog post generation which takes short sentence as input and outputs a small paragraph of text related to that topic. 
+
+## Day 50 - 9/7/2023
+- Working further more on YOLOv8 object detection today I used Oidv4 toolkit to download images from Open Image Dataset of Google, used CVAT to annotate the data and train the model in local environment.
+
+## Day 51 - 9/8/2023
+- 
