@@ -156,4 +156,10 @@ Happy Learning!
 - Working further more on YOLOv8 object detection today I used Oidv4 toolkit to download images from Open Image Dataset of Google, used CVAT to annotate the data and train the model in local environment.
 
 ## Day 51 - 9/8/2023
-- 
+- Today I looked at different applications of GANs mostly focusing on the topic of Data Augmentation. In Data Augmentation I learned how it helps us to use more realistic fake data for the ml model to improve its accuracy.
+
+## Day 52 - 9/9/2023
+- Futhermore into the Data Augmentation using GANs, I learned Pros and Cons of Data Augmentation like pros being it better than hand crafted syntetic examples, Generate more labeled examples and Improve the model generalization. Cons being limited Diversity, not useful when overfit to real data.
+
+## Day 53 - 9/10/2023
+- I surfacely explored the RandAugment paper which shows that data augmentation has the potential t osignificantly improve the generalization of deep learning model. 
