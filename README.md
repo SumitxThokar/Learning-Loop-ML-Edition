@@ -117,7 +117,7 @@ Happy Learning!
 - Today I explored a way to identifying some baises of a GAN using a classifier, in a way that's well suited for attempting to make a model independent of an input. It was a programming assignment,
 
 ## Day 38 - 8/26/2023
-- Today I worked on a project: Movie recommendation system which takes input movie and recommend similar movies based on content. Today I preprocessed the data and created model using nltk library and bagofwords as vectorization technique.
+- Today I worked on a/ project: Movie recommendation system which takes input movie and recommend similar movies based on content. Today I preprocessed the data and created model using nltk library and bagofwords as vectorization technique.
 
 ## Day 39 - 8/27/2023
 - Working further on the same project I was able to built a webapp using streamlit. The web app takes the input as the movie name and outputs similar movies with its poster. 
@@ -137,7 +137,7 @@ Happy Learning!
 ## Day 44 - 9/1/2023
 - Worked on project of Facial recognition with Siamese Network. I completed the first part where I created a conda environment, installed and imported required packagaes, setup the GPU for the jupyter network by downloading cuba toolkit.
 
-## Day 45 - 9/2/2023
+## Day 45 - 9/2/2023/
 - Furthermore on Facial recognition Project, today I completed the part where I collected anchor, positive and negative image for the model. Next I preprocess the images created positve and negative samples and load those data into TF Dataloader.
 
 ## Day 46 - 9/3/2023
@@ -163,3 +163,11 @@ Happy Learning!
 
 ## Day 53 - 9/10/2023
 - I surfacely explored the RandAugment paper which shows that data augmentation has the potential t osignificantly improve the generalization of deep learning model. 
+
+## Day 54 - 9/11/2023
+- Explored the fundamental of Matrix Factorization as matrix are everywhere in machine learning. I learned about LR, QR and Cholesky method and importance of Matrix Factorization, where it is used in machine learning surfacely.
+
+## Day 55 = 9/12/2023
+- Today I implemented a Generative Teaching Network (GTN) which was first introduced in 2019. Essentially GTN is composed of a generator (ie teacher which produces synthetic data, and a student which is trained on this data for some task. The main difference with GANs being GTN working cooperatively opposed to adversarilly.
+
+## Day 56 - 
