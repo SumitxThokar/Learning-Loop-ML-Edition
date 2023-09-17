@@ -167,7 +167,14 @@ Happy Learning!
 ## Day 54 - 9/11/2023
 - Explored the fundamental of Matrix Factorization as matrix are everywhere in machine learning. I learned about LR, QR and Cholesky method and importance of Matrix Factorization, where it is used in machine learning surfacely.
 
-## Day 55 = 9/12/2023
+## Day 55 - 9/12/2023
 - Today I implemented a Generative Teaching Network (GTN) which was first introduced in 2019. Essentially GTN is composed of a generator (ie teacher which produces synthetic data, and a student which is trained on this data for some task. The main difference with GANs being GTN working cooperatively opposed to adversarilly.
 
-## Day 56 - 
+## Day 56 - 9/13/2023
+- Learned what Image to Image Translation is. Got overview of Pix2Pix GAN and its components. I learned that Pix2Pix Generator is based on U-Net Architecture which takes Image as input and give Image as output. Then comes Discriminator (PatchGAN) which takes the concatenated output from U-Net and the Real Input and output classification matrix and compares it with Real/ fake matrix with additional pixel distance loss term.
+
+## Day 57 - 9/14/2023
+- I summarized the learning of Pix2Pix then learned improvements and extension of Pix2Pix for image to image translation like Higher resolution images and image editing. Pix2PixHD, GauGAN, are successors of Pix2Pix.
+
+## Day 58 - 9/15/2023
+- Wor
