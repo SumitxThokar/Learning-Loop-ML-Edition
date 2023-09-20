@@ -177,4 +177,16 @@ Happy Learning!
 - I summarized the learning of Pix2Pix then learned improvements and extension of Pix2Pix for image to image translation like Higher resolution images and image editing. Pix2PixHD, GauGAN, are successors of Pix2Pix.
 
 ## Day 58 - 9/15/2023
-- Wor
+- Worked in the project where I learned how to use Langchain. It was a beginner-friendly project where I built a webapp using streamlit whuc turn as image into an audio story. I used Langchain framework, and Hugging face models.
+
+## Day 59 - 9/16/2023
+- I completed my programming assignment of U-net. I implemeted  a U-Net for a biomedical imaging segmentation task.
+
+## Day 60 - 9/17/2023
+- Today I worked on programming assignment of a generative model based on the paper Image-to-Image translation with conditional adversarial netowrks by Isola also know as Pix2Pix and trained a model that can convert aerial satellite imagery to map routes.
+
+## Day 61 - 9/18/2023
+- Learned about Super-Resolution GAN (SRGAN), a GAN that enhances the resolution of images by 4x, proposed in Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (Ledig et al. 2017). Also implemented the architecture and training in full and be able to train it on the CIFAR dataset.
+
+## Day 62 - 9/19/2023
+- Understood how unpaired image-to-image translation differs from paired translation and took a surface overview of how CycleGAN work and its components like two GANs, cycle consistency.
