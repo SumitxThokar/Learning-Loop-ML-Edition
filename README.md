@@ -190,3 +190,9 @@ Happy Learning!
 
 ## Day 62 - 9/19/2023
 - Understood how unpaired image-to-image translation differs from paired translation and took a surface overview of how CycleGAN work and its components like two GANs, cycle consistency.
+
+## Day 63 - 9/20/2023
+- Understood the concept of Least Squares Loss and Identity loss in GANs and learned putting every thing all together. Alos learned how and where we can apply Cycle GAN and its variants.
+
+## Day 64 - 9/21/2023
+- Worked on Programming Assignment where I wirite generative model based on the paper Unpaired Image to Image Translation using Cycle Consistent Adversarial Networks ie CycleGAN. 
