@@ -196,3 +196,9 @@ Happy Learning!
 
 ## Day 64 - 9/21/2023
 - Worked on Programming Assignment where I wirite generative model based on the paper Unpaired Image to Image Translation using Cycle Consistent Adversarial Networks ie CycleGAN. 
+
+## Day 65 - 9/22/2023
+- Covered a quick introduction to Machine Learning Production system focusing on their requirements and challenges by studying a Case Study of speech recognition project.
+
+## Day 66- 9/23/2023
+- 
