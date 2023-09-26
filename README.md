@@ -183,8 +183,7 @@ Happy Learning!
 - I completed my programming assignment of U-net. I implemeted  a U-Net for a biomedical imaging segmentation task.
 
 ## Day 60 - 9/17/2023
-- Today I worked on programming assignment of a generative model based on the paper Image-to-Image translation with conditional adversarial netowrks by Isola also know as Pix2Pix and trained a model that can convert aerial satellite imagery to map routes.
-
+- Today I worked on programming assignment of a generative model based on the paper Image-to-Image translation with conditional adversarial netowrks by Isola also know as Pix2Pix and trained a mo/del that can convert aerial satellite imagery to map routes.
 ## Day 61 - 9/18/2023
 - Learned about Super-Resolution GAN (SRGAN), a GAN that enhances the resolution of images by 4x, proposed in Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (Ledig et al. 2017). Also implemented the architecture and training in full and be able to train it on the CIFAR dataset.
 
@@ -201,4 +200,8 @@ Happy Learning!
 - Covered a quick introduction to Machine Learning Production system focusing on their requirements and challenges by studying a Case Study of speech recognition project.
 
 ## Day 66- 9/23/2023
-- 
+- I learned Key challenges while deployment mainly being data and concept drift, Stats issues as well and software issues. Next I learned few common Deployment patterrns.
+
+## Day 67 - 9/24/2023
+- Learned how to monitor a system mostly focusing on software metrics, input metrics and output metrics. And futher more I learned about pipeline monitoring.
+  
