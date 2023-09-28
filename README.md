@@ -205,3 +205,8 @@ Happy Learning!
 ## Day 67 - 9/24/2023
 - Learned how to monitor a system mostly focusing on software metrics, input metrics and output metrics. And futher more I learned about pipeline monitoring.
   
+## Day 68 - 9/25/2023
+- While learning about model strategies and ey challenges in model deployment, I learned about why low average error isn't good enough, and how to establish a baseline and got few tips for getting started with selection and training of a model.
+
+## Day 69 - 9/26/2023
+- Covered Error analysis and strategies to work with different data types. I learned how to handle Skewed datasets and audit performance with example. 
