@@ -184,7 +184,7 @@ Happy Learning!
 
 ## Day 60 - 9/17/2023
 - Today I worked on programming assignment of a generative model based on the paper Image-to-Image translation with conditional adversarial netowrks by Isola also know as Pix2Pix and trained a mo/del that can convert aerial satellite imagery to map routes.
-## Day 61 - 9/18/2023
+## Day 61 - /9/18/2023
 - Learned about Super-Resolution GAN (SRGAN), a GAN that enhances the resolution of images by 4x, proposed in Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (Ledig et al. 2017). Also implemented the architecture and training in full and be able to train it on the CIFAR dataset.
 
 ## Day 62 - 9/19/2023
@@ -210,3 +210,6 @@ Happy Learning!
 
 ## Day 69 - 9/26/2023
 - Covered Error analysis and strategies to work with different data types. I learned how to handle Skewed datasets and audit performance with example. 
+
+## Day 70 - 9/27/2023
+- Learned about Data centric AI development and how data augmentation can be used and which type of data to focus on more with example and using analogy of rubber band. Next I learned about Checklist of being a data that can be added to dataset.
