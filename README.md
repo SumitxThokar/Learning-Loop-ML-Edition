@@ -216,3 +216,6 @@ Happy Learning!
 
 ## Day 71 - 9/28/2023
 - Learned about a rare case of model performance being hurt by adding data. Then I learned more on structured data, adding feature in it which is similar to data augmentation when it comes to structured data.
+
+## Day 72 - 9/29/2023
+- Learned about how we can track the experiments and its importance. Then I learned about the importance of good data and criteria of good data. 
