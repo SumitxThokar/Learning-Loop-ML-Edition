@@ -219,3 +219,6 @@ Happy Learning!
 
 ## Day 72 - 9/29/2023
 - Learned about how we can track the experiments and its importance. Then I learned about the importance of good data and criteria of good data. 
+
+## Day - 73 - 9/30/2023
+- Worked on lab and observed how data intricacies affect the outcome of models, applied data changes without addressing the model where I used a single model throughout: a simple Convolutional Neural Network (CNN). 
