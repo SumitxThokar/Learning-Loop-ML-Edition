@@ -222,3 +222,9 @@ Happy Learning!
 
 ## Day - 73 - 9/30/2023
 - Worked on lab and observed how data intricacies affect the outcome of models, applied data changes without addressing the model where I used a single model throughout: a simple Convolutional Neural Network (CNN). 
+
+## Day 74 - 10/1/2023
+- Understood why data definition is quite harder than anyone might think then learned about ambiguity while labeling data with examples.
+
+## Day 75 - 10/2/2023
+- Learned the major types of data problems with respect to different types of data interms of sizes and nature. Then I learned how much clean data is important futhermore I learned how to handle unlabeled data for structured and unstructured data.
